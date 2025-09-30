@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Anuj!
 
 <div align="center">
-  
+
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Machine+Learning+Enthusiast+🤖;Competitive+Programmer+💻;Data+Science+Explorer+📊;Problem+Solver+🧩)
 
 </div>
@@ -81,7 +81,7 @@ VSCode extension for competitive programming - automated test case fetching for 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anuj-m02)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuj02singh/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anuj-m02)
 
