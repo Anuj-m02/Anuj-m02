@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Passionate about **Machine Learning**, **Data Science**, and **Competitive Programming**
+- 🎓 Passionate about **Python Dev **, **Machine Learning**, **Data Science**, and **Competitive Programming**
 - 🔭 Currently working on innovative ML projects and sharpening my problem-solving skills
 - 🌱 Exploring advanced deep learning techniques and computer vision
 - 💡 Love turning complex problems into elegant solutions
