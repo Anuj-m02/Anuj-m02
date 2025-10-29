@@ -2,13 +2,13 @@
 
 <div align="center">
 
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Machine+Learning+Enthusiast+🤖;Competitive+Programmer+💻;Data+Science+Explorer+📊;Problem+Solver+🧩)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Software+Dev;Machine+Learning+Enthusiast+🤖;Competitive+Programmer+💻;Data+Science+Explorer+📊;Problem+Solver+🧩)
 
 </div>
 
 ## 🚀 About Me
 
-- 🎓 Passionate about **Python Dev**, **Machine Learning**, **Data Science**, and **Competitive Programming**
+- 🎓 Passionate about **Python Dev**, **Data Structures and Algorithms**, **Machine Learning**, **Data Science**, and **Competitive Programming**
 - 🔭 Currently working on innovative ML projects and sharpening my problem-solving skills
 - 🌱 Exploring advanced deep learning techniques and computer vision
 - 💡 Love turning complex problems into elegant solutions
